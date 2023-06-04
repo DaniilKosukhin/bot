@@ -22,7 +22,7 @@
 
 ### bot code:
 
-```arduinoIDE
+```Arduino IDE
 #include <SPI.h>
 #include <RF24.h>
 #include <nRF24L01.h>
