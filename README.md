@@ -8,12 +8,17 @@
 
 ### Componenets:
 + 3D jostick
-+ amperka iskra NEO - 2x
++ amperka iskra NEO 2x
 + NRF
 + NRF +
 + 5v to 3.3 v
 + potentiometer
 + powerbank
++ servo 360
++ RGB LED matrix
++ battery holder
++ Motor Shield
++ DC motor 2x
 
 ### bot code:
 
