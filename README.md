@@ -6,6 +6,15 @@
 
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
 
+### Componenets:
++ 3D jostick
++ amperka iskra NEO - 2x
++ NRF
++ NRF +
++ 5v to 3.3 v
++ potentiometer
++ powerbank
+
 ### bot code:
 
 ```arduinoIDE
