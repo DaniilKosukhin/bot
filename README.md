@@ -5,5 +5,3 @@
 ![bot backside](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/2.%20bot%20backside.jpg)
 
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
-
-![moving](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/moving.mp4)
