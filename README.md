@@ -6,12 +6,8 @@
 
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
 
-_____
-
 ### bot code:
 ***
-// Bot
-
 #include <SPI.h>
 #include <RF24.h>
 #include <nRF24L01.h>
@@ -46,8 +42,7 @@ void setup(){
  radio.setPALevel (RF24_PA_HIGH); 
  radio.openReadingPipe(1, pipe); 
  radio.startListening();
-
-// motor pins
+ 
   for (int i = 4; i < 8; i++) {     
     pinMode(i, OUTPUT);
   } 
@@ -82,8 +77,7 @@ void loop() {
         }
         matrix.show();
       }
-
-// 0 - Forward, 1 - backward, 2 - right, 3 - left
+      
     switch (data[2]) {
       case 0: {
         digitalWrite(DIR_1, HIGH); // set direction
@@ -136,8 +130,6 @@ void loop() {
 ***
 
 ### jostick code:
-
-// Joystick
 
 #include <SPI.h>
 #include <RF24.h>
