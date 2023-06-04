@@ -8,7 +8,7 @@
 
 ### bot code:
 
-```arduino 
+```arduinoIDE
 #include <SPI.h>
 #include <RF24.h>
 #include <nRF24L01.h>
@@ -132,6 +132,7 @@ void loop() {
 
 ### jostick code:
 
+```
 #include <SPI.h>
 #include <RF24.h>
 #include <nRF24L01.h>
@@ -217,4 +218,4 @@ void loop() {
 
     delay(100);
 }
-***
+```
