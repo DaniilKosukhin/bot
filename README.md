@@ -7,7 +7,8 @@
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
 
 ### bot code:
-***
+
+```arduino 
 #include <SPI.h>
 #include <RF24.h>
 #include <nRF24L01.h>
@@ -127,7 +128,7 @@ void loop() {
     }
   }
 }
-***
+```
 
 ### jostick code:
 
