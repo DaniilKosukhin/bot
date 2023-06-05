@@ -8,7 +8,7 @@ Creation of a radio-controlled robot with additional elements for passing the te
 
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
 
-### Componenets:
+### componenets:
 + 3D jostick
 + amperka iskra NEO 2x
 + NRF
