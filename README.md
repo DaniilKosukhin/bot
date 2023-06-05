@@ -26,7 +26,7 @@ Creation of a radio-controlled robot with additional elements for passing the te
 
 ### bot code:
 
-```Arduino IDE
+```Python
 #include <SPI.h>
 #include <RF24.h>
 #include <nRF24L01.h>
