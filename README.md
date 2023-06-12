@@ -2,8 +2,6 @@
 
 The bot passed three tests out of four in 2 minutes and 12 seconds
 
-![1](https://github.com/DaniilKosukhin/bot/assets/114745140/2e47dd61-91bb-4d4d-b1dc-4ea5b47cf94f)
-
 ![bot front](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/1.%20bot%20front.jpg)
 
 ![bot backside](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/2.%20bot%20backside.jpg)
