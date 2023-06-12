@@ -8,7 +8,9 @@ Creation of a radio-controlled robot for passing the test lane
 
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
 
-https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/bot%20movee.mp4
+https://github.com/DaniilKosukhin/bot/assets/114745140/df838239-0182-4846-968c-9d25e73ed891
+
+
 
 ### componenets:
 + 3D jostick
