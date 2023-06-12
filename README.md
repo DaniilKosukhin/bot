@@ -10,7 +10,11 @@ Bear holds radio module on his hat, for quality signal reception
 
 ![bot backside](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/2.%20bot%20backside.jpg)
 
+Joystick components assembled on a piece of cardboard
+
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
+
+Robot in motion :oncoming_automobile:
 
 https://github.com/DaniilKosukhin/bot/assets/114745140/df838239-0182-4846-968c-9d25e73ed891
 
