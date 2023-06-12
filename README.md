@@ -1,6 +1,6 @@
 # bot
 
-Creation of a radio-controlled robot with additional elements for passing the test lane
+Creation of a radio-controlled robot for passing the test lane
 
 ![bot front](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/1.%20bot%20front.jpg)
 
@@ -8,7 +8,7 @@ Creation of a radio-controlled robot with additional elements for passing the te
 
 ![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/3%20Joystick.jpg)
 
-![joystick](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/moving.mp4)
+
 
 ### componenets:
 + 3D jostick
