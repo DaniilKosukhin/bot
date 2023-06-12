@@ -2,7 +2,11 @@
 
 The bot passed three tests out of four in 2 minutes and 12 seconds
 
+To meet the condition of the project were chosen not round wheels, but spiked in 4 rows of cones.
+
 ![bot front](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/1.%20bot%20front.jpg)
+
+Bear holds radio module on his hat, for quality signal reception
 
 ![bot backside](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/2.%20bot%20backside.jpg)
 
